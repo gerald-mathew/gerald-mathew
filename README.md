@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gerald-mathew.me"><img src="https://img.shields.io/badge/gerald--mathew.netlify.app-0A6F79?style=for-the-badge&logo=netlify&logoColor=white" alt="gerald--mathew.netlify.app" height="28" /></a>
+  <a href="https://gerald-mathew.me"><img src="https://img.shields.io/badge/gerald--mathew.me-0A6F79?style=for-the-badge&logo=netlify&logoColor=white" alt="gerald--mathew.me" height="28" /></a>
   <img src="https://img.shields.io/badge/Open to internships and freelance work-4D7C0F?style=for-the-badge&logo=check&logoColor=" alt="Open to internships and freelance work" height="28" />
 </p>
 
